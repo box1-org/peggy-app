@@ -1,0 +1,6 @@
+site_name: peggy-app
+site_description: "An app for Peggy"
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core
